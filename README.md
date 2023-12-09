@@ -43,4 +43,5 @@ Video DAO is a decentralized video creation platform that operates on the princi
 - All proposal details are transparently stored on IPFS for review and transparency.
 
 ## Architecture
+![overview](https://github.com/Anuradha-Naidu/EthIndia23/assets/88324015/eedd407c-29f6-4cce-8a50-f5ca3c6105a4)
 
