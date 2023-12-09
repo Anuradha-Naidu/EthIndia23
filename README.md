@@ -41,3 +41,6 @@ Video DAO is a decentralized video creation platform that operates on the princi
 - Holders of 10 million VID tokens can create proposals for funding initiatives or improvements to the Video DAO platform.
 - Proposals are subject to voting by VID token holders, enabling community-driven decision-making.
 - All proposal details are transparently stored on IPFS for review and transparency.
+
+## Architecture
+
