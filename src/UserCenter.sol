@@ -22,6 +22,7 @@ contract UserCenter is Ownable {
     constructor() Ownable(msg.sender){
        
     }
+    
     function initializeAddress(address vidAddress_, address daoAddress_) external onlyOwner {
         require(vidAddress == address(0));
         vidAddress = vidAddress_;
