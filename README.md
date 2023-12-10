@@ -42,6 +42,13 @@ Video DAO is a decentralized video creation platform that operates on the princi
 - Proposals are subject to voting by VID token holders, enabling community-driven decision-making.
 - All proposal details are transparently stored on IPFS for review and transparency.
 
+### ScrollSepoliaTestnet
+- UserCenter: 0x7A4b0EC7b43d865128fD891372082825bE430B82
+- VID: 0x70FCf93Cf28090Ac039f5Fc5667c0a8173C9998b
+- DAO: 0x83bf8771907395F924B0e4Bc9069f5040D7804C8
+- Market: 0xCF4f38011096491EC703ddB71cc87858E2944BE1
+- Video: 0x5BdEf8793DE0Cca8FFB46A1a153bAa0110c2Ee6a
+
 ## Architecture
 ![overview](https://github.com/Anuradha-Naidu/EthIndia23/assets/88324015/eedd407c-29f6-4cce-8a50-f5ca3c6105a4)
 
